@@ -9,10 +9,9 @@ script:
   - npm run build
 
 deploy:
-  provider: netlify
+  provider: vercel
   skip_cleanup: true
-  site_id: YOUR_NETLIFY_SITE_ID
-  auth_token: YOUR_NETLIFY_AUTH_TOKEN
+  api_token: YOUR_VERCEL_TOKEN
   dir: dist
   on:
     branch: main

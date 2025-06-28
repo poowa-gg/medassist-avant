@@ -4,7 +4,7 @@ A healthcare app for the MedAssist hackathon.
 ## Tech Stack
 - Frontend: Vite, React
 - CI/CD: Travis CI
-- Deployment: Netlify
+- Deployment: Vercel
 
 ## Setup
 1. Clone: git clone https://github.com/poowa-gg/medassist-avant.git
@@ -21,4 +21,4 @@ A healthcare app for the MedAssist hackathon.
 - Symptom Description
 
 ## Deployment
-- Deployed to Netlify: [Live URL]
+- Deployed to vercel: [Live URL]
